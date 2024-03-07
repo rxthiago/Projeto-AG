@@ -3195,11 +3195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
       "projectName": "Teste.Models",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

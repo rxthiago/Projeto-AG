@@ -11,3 +11,16 @@ C:\Users\Usuario\Desktop\1 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.
 C:\Users\Usuario\Desktop\1 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\refint\Teste.Models.dll
 C:\Users\Usuario\Desktop\1 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.pdb
 C:\Users\Usuario\Desktop\1 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\ref\Teste.Models.dll
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\bin\Debug\net8.0\Teste.Models.deps.json
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\bin\Debug\net8.0\Teste.Models.dll
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\bin\Debug\net8.0\Teste.Models.pdb
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.sourcelink.json
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.dll
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\refint\Teste.Models.dll
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\Teste.Models.pdb
+C:\Users\Usuario\Desktop\2 - Desafio\GestaoProdutos\Teste.Models\obj\Debug\net8.0\ref\Teste.Models.dll

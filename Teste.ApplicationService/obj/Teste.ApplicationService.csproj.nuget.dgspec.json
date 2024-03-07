@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj",
         "projectName": "Teste.ApplicationService",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\Teste.ApplicationService.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj"
+              "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj"
               },
-              "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj"
+              "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj",
         "projectName": "Teste.Infrastructure",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\Teste.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj"
+              "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
         "projectName": "Teste.Models",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\Teste.Models.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\1 - Desafio\\GestaoProdutos\\Teste.Models\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\2 - Desafio\\GestaoProdutos\\Teste.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
